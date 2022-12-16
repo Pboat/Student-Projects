@@ -1,0 +1,10 @@
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 2-3\Card Identifier\Card Identifier\bin\Debug\Card Identifier.exe.config
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 2-3\Card Identifier\Card Identifier\bin\Debug\Card Identifier.exe
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 2-3\Card Identifier\Card Identifier\bin\Debug\Card Identifier.pdb
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 2-3\Card Identifier\Card Identifier\obj\Debug\Card Identifier.csprojAssemblyReference.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 2-3\Card Identifier\Card Identifier\obj\Debug\Card_Identifier.Form1.resources
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 2-3\Card Identifier\Card Identifier\obj\Debug\Card_Identifier.Properties.Resources.resources
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 2-3\Card Identifier\Card Identifier\obj\Debug\Card Identifier.csproj.GenerateResource.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 2-3\Card Identifier\Card Identifier\obj\Debug\Card Identifier.csproj.CoreCompileInputs.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 2-3\Card Identifier\Card Identifier\obj\Debug\Card Identifier.exe
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 2-3\Card Identifier\Card Identifier\obj\Debug\Card Identifier.pdb

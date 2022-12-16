@@ -1,0 +1,16 @@
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 3-14\Stadium Seating\Stadium Seating\bin\Debug\netcoreapp3.1\Stadium Seating.exe
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 3-14\Stadium Seating\Stadium Seating\bin\Debug\netcoreapp3.1\Stadium Seating.deps.json
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 3-14\Stadium Seating\Stadium Seating\bin\Debug\netcoreapp3.1\Stadium Seating.runtimeconfig.json
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 3-14\Stadium Seating\Stadium Seating\bin\Debug\netcoreapp3.1\Stadium Seating.runtimeconfig.dev.json
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 3-14\Stadium Seating\Stadium Seating\bin\Debug\netcoreapp3.1\Stadium Seating.dll
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 3-14\Stadium Seating\Stadium Seating\bin\Debug\netcoreapp3.1\Stadium Seating.pdb
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 3-14\Stadium Seating\Stadium Seating\obj\Debug\netcoreapp3.1\Stadium Seating.csproj.AssemblyReference.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 3-14\Stadium Seating\Stadium Seating\obj\Debug\netcoreapp3.1\Stadium_Seating.Form1.resources
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 3-14\Stadium Seating\Stadium Seating\obj\Debug\netcoreapp3.1\Stadium Seating.csproj.GenerateResource.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 3-14\Stadium Seating\Stadium Seating\obj\Debug\netcoreapp3.1\Stadium Seating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 3-14\Stadium Seating\Stadium Seating\obj\Debug\netcoreapp3.1\Stadium Seating.AssemblyInfoInputs.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 3-14\Stadium Seating\Stadium Seating\obj\Debug\netcoreapp3.1\Stadium Seating.AssemblyInfo.cs
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 3-14\Stadium Seating\Stadium Seating\obj\Debug\netcoreapp3.1\Stadium Seating.csproj.CoreCompileInputs.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 3-14\Stadium Seating\Stadium Seating\obj\Debug\netcoreapp3.1\Stadium Seating.dll
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 3-14\Stadium Seating\Stadium Seating\obj\Debug\netcoreapp3.1\Stadium Seating.pdb
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 3-14\Stadium Seating\Stadium Seating\obj\Debug\netcoreapp3.1\Stadium Seating.genruntimeconfig.cache
