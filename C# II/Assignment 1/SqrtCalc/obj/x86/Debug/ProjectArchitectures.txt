@@ -1,0 +1,1 @@
+C:\Users\panth\Documents\CompSci\Visual C# II\Assignment 1\SqrtCalc\SqrtCalc.csproj;x86
