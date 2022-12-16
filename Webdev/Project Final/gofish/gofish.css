@@ -1,0 +1,346 @@
+/*
+Daniel Bruce
+4/12/2021
+*/
+*{
+	box-sizing: border-box;
+}
+
+main{
+	display: block;
+	overflow:auto;
+}
+
+body {
+	background: linear-gradient(352deg, #cc6600 0%, #330055 15%, #330077 40%, #3399ff 100%) fixed;
+	background-size: 100%, 100%;
+	font-family: arial;
+}
+
+header {
+	background-color: #330066;
+	color: #ffffff;
+	margin-bottom: 0px;
+	position: relative;
+}
+
+header h1{
+	padding-top: 1.5em; 
+	text-align: center;
+	font-family: "baskerville old face";
+	color: #ffffff;
+	font-size: 36pt;
+	position: absolute;
+	top: 5px;
+	left: 25%;
+	right: 25%;
+}
+
+p {
+	font-family: "arial";
+	padding: .5em;
+	margin-left: 3em;
+	margin-right: 2em;
+}
+
+h1 {
+	padding: 1em;
+}
+
+h2{
+	padding: .5em;
+}
+
+nav {
+	position: relative;
+	width: 100%;
+	text-align: center;
+	margin-top: 1px;
+	padding-bottom: 2px;
+	border-bottom: 1px outset #330066;
+}
+
+nav li {
+	margin:0px;
+	position: relative;
+	display: inline;
+}
+
+nav ul{
+	margin: 0px;
+	list-style-type: none;
+}
+
+nav a {
+	color: #000000;
+	display: inline-block;
+	text-decoration: none;
+	text-align: center;
+	padding: 5px;
+	padding-left: 50px;
+	padding-right: 50px;
+	font-weight: bold;
+	font-size: 20px;
+	border: 1px outset #330066;
+	border-top: 0px;
+	margin: -3px;
+
+}
+
+nav a:link {
+	color: #000000;
+}
+
+nav a:visited {
+	color: #000000;
+}
+
+nav a:hover {
+	color: #3399ff;
+}
+
+nav a:active {
+	color: #cc6600;
+	background-color: #ddddee;
+}
+
+hr{
+	width: 80%;
+}
+
+table{
+	margin: 1em;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+td{
+	padding: 5px;
+}
+
+tr{
+	padding-top: 3px;
+}
+
+table, tr, td{
+	border: 1px solid #000000;
+	border-spacing: 0;
+}
+
+section{
+	background-color: #ffaa33;
+	padding: 1em;
+	text-align: center ;
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+}
+
+form{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+label{
+	float: left;
+	text-align: right;
+	padding-right: 1.5em;
+	color: #330066;
+	font-weight: bold;
+	width: 47%;
+}
+
+input, select{
+	display:block;
+}
+
+footer{
+	text-align: center;
+	background-color: #220044;
+	color: #ffffff;
+}
+
+footer a{
+	color: #cc9900;
+}
+/*
+img {
+}
+
+.clear{
+	overflow: auto;
+	width: 100%;
+}
+*/
+.dropdown{
+	position: relative;
+	display: inline-block;
+	margin-top: 1px;
+	margin-left: 0px;
+	margin-right: .5px;
+	padding: 0px;
+	padding-top: 1px
+}
+
+.dropbase{
+	background-color: #ffffff;
+	color: #000000;
+}
+
+.dropbase a:hover{
+	color: #330066;
+}
+
+.dropmenu{
+	display: none;
+	position: absolute;
+	width: 154px;
+	background-color: #330066; 
+	z-index: 1;
+}
+
+.dropmenu a:link{
+	color: #ffffff;
+	border-style: none;
+}
+
+.dropmenu a:visited{
+	color: #ffffff;
+}
+
+.dropmenu a:hover{
+	color: #ff9900;
+}
+
+.dropmenu a:active{
+	color: #ffff00;
+	background-color: #330066;
+}
+
+.dropdown:hover .dropmenu{
+	display: block;
+	margin-left: -.2em;
+	margin-top: .2em;
+}
+
+.abtblk{
+	position: relative;
+	box-sizing: border-box;
+	display: inline-block;
+	width: 40%;
+}
+
+.abtblk img{
+	width: auto;
+}
+
+.center{
+	text-align: center;
+}
+
+.hero {
+	position: relative;
+	box-sizing: border-box;
+	text-align: center;
+}
+
+.hero ul {
+	list-style-type: none;
+}
+
+.hero li{
+	margin: 2em;
+	display: inline-block;
+	text-align: center;
+}
+
+.thumb{
+	margin: 2em;
+}
+
+
+.warning{
+	color: #ff0000;
+	font-weight: bold;
+	text-align: center;
+	margin-left: 5em;
+	margin-right: 5em;
+}
+
+.mobile{
+	display: none;
+
+}
+
+.desktop{
+	display: inline;
+}
+
+#wrapper {
+	background-color: #ffffff;
+	min-width: 960px;
+	max-width: 1080px;
+	margin-right: auto;
+	margin-left: auto;
+	box-shadow: 0px 4px 8px 0px #000000;
+}
+
+#logo {
+	position: absolute;
+	top:.5em;
+	left:1em;
+
+}
+
+#formButton{
+	margin-right: auto;
+	margin-left: auto;
+}
+
+/*phone*/
+@media only all and (max-width: 768px){
+
+	main{
+		min-width: 4em;
+	}
+
+
+	header h1{
+		top:0;
+		padding-top: 1em;
+	}
+
+	nav a{
+		padding:2px;
+		padding-top:5px;
+		padding-bottom: 5px;
+	}
+
+	.dropdown:hover .dropmenu{
+	display: none;
+}
+	
+	
+	img, hr{
+		display: none;
+	}
+
+	footer{
+		
+	}
+
+	#wrapper{
+		min-width: 300px;
+	}
+
+	.mobile{
+		display: inline;
+	}
+
+	.desktop{
+		display: none;	
+	}
+}

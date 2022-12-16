@@ -1,0 +1,128 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title> Catering | Go Fish Diner </title>
+		<meta charset="utf-8">
+		<meta name="description" content="A dockside seafood restaurant dedicated to serving fast, quality food">
+		<meta name = "viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="gofish.css">
+		<link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+	</head>
+	<body>
+		<div id="wrapper">
+			<header>
+				<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+				<a href="index.html">
+					<img id="logo" src="images/logo.png" alt="Restaurant logo featuring a swordfish and playing card suits" height="267" width="267">
+					<h1>Go Fish Diner</h1>
+				</a>
+			</header>
+			<nav>
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><div class="dropdown"><a class="dropbase" href="menu.html">Menu</a>
+							<div class= "dropmenu">
+								<a href="entrees.html">Entrees</a>
+								<a href="sides.html">Sides</a>
+								<a href="drinks.html">Drinks</a>
+							</div>
+						</div>
+					</li>
+					<li><a href="catering.html">Catering</a></li>
+					<li><a href="locations.html">Locations</a></li>
+					<li><a href="about.html">About</a></li>
+				</ul>
+			</nav>
+			<br class="clear" />
+			<main>
+				<div class="hero">
+					<h2>Catering</h2>
+					<img class="thumb" src="images/nonspecific_catering.jpg" alt="The Go Fish catering team" height="169" width="225">
+				</div>
+				<div class="warning"> UPDATE 4/16/20: Due to the ongoing pandemic, we are no longer taking any further catering orders. We value the safety of both our customers and our staff, and, as such, we hope you understand our decision to stop taking orders.</div><br />
+				<p>
+				Have an event coming up that needs some seafood to spice it up? We got you covered! Our catering team is a local legend known for professional service and delicious food. Fill out the form below or call us up, and we'll come out and bring the food to you.
+				</p>
+				<section>
+					<p>Required information is marked with an asterisk (*)</p>
+					<form name="catering" method="post" action="catering@gofish.com">
+						<div class="hero"> Personal Information </div>
+						<hr /> <br />
+						<label for="caterFirst">*First Name:</label>
+						<input type="text" name="caterFirst" id="caterFirst" required><br />
+						<label for="caterMiddle">Middle Name:</label>
+						<input type="text" name="caterMiddle" id="caterMiddle" ><br />
+						<label for="caterLast">*Last Name:</label>
+						<input type="text" name="caterLast" id="caterLast" required><br />
+						<label for="caterPhone">*Phone Number:</label>
+						<input type="text" name="caterPhone" id="caterPhone" required><br />
+						<label for="caterMail">E-mail:</label>
+						<input type="text" name="caterMail" id="caterMail"><br />
+						<div class="hero"> Order Information </div>
+						<hr /> <br />
+						<label for="caterDate">*Date:</label>
+						<input type="date" name="caterDate" id="caterDate" required><br />
+						<label for="caterAddress">*Address:</label>
+						<input type="text" name="caterAddress" id="caterAddress" required><br />
+						<label for="caterPack">*Catering Package:</label>
+						<select size="1" name="cateringPack" id="caterPack">
+							<option value ="family">Family Pack</option>
+							<option value ="small">Small Party Pack</option>
+							<option value ="large">Large Party Pack</option>
+							<option value ="huge">Huge Party Pack</option>
+						</select>
+						<br />
+						<input type="submit" id="formButton" value="Submit">
+						<br />
+					</form>
+				</section>
+				<br />
+				<div class="hero">
+					Contact our catering team by phone at: <br />
+					<a class= "mobile" href="345-323-8758"> 345-323-8758 </a>
+					<span class= "desktop"> 345-323-8758 </span><br />
+				</div>
+				<br />
+				<hr />
+				<p class="hero">Our catering package comes with fried cod, grilled salmon, and chicken, as well as fries and mixed veggies on the side.<br />
+					Order on the phone for custom orders!
+				</p>
+				<table>
+					<tr>
+						<td></td>
+						<td>Price</td>
+					</tr>
+					<tr>
+						<td>Family Pack (Feeds 10)</td>
+						<td>$45.99</td>
+					</tr>
+					<tr>
+						<td>Small Party Pack (Feeds 20)</td>
+						<td>$64.49</td>
+					</tr>
+					<tr>
+						<td>Large Party Pack (Feeds 35)</td>
+						<td>$94.99</td>
+					</tr>
+					<tr>
+						<td>Huge Party Pack (Feeds 50)</td>
+						<td>$139.99</td>
+					</tr>
+				</table>
+				<br />
+			</main>
+			<footer>
+				<br />
+				Contact Us:
+				<br />
+				<a class= "mobile" href="345-323-8747"> 345-323-8747 </a>
+				<span class= "desktop"> 345-323-8747 </span><br />
+				<a href="dbruce8@live.spcollege.edu"> Daniel@Bruce.com </a>
+				<br />
+				Copyright &copy; 2021 Go Fish Diner <br />
+				<br />
+			</footer>
+		</div>
+	</body>
+</html>
