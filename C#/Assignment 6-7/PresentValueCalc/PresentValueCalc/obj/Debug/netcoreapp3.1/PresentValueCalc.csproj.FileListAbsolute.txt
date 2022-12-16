@@ -1,0 +1,16 @@
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 6-7\PresentValueCalc\PresentValueCalc\bin\Debug\netcoreapp3.1\PresentValueCalc.exe
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 6-7\PresentValueCalc\PresentValueCalc\bin\Debug\netcoreapp3.1\PresentValueCalc.deps.json
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 6-7\PresentValueCalc\PresentValueCalc\bin\Debug\netcoreapp3.1\PresentValueCalc.runtimeconfig.json
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 6-7\PresentValueCalc\PresentValueCalc\bin\Debug\netcoreapp3.1\PresentValueCalc.runtimeconfig.dev.json
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 6-7\PresentValueCalc\PresentValueCalc\bin\Debug\netcoreapp3.1\PresentValueCalc.dll
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 6-7\PresentValueCalc\PresentValueCalc\bin\Debug\netcoreapp3.1\PresentValueCalc.pdb
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 6-7\PresentValueCalc\PresentValueCalc\obj\Debug\netcoreapp3.1\PresentValueCalc.csproj.AssemblyReference.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 6-7\PresentValueCalc\PresentValueCalc\obj\Debug\netcoreapp3.1\PresentValueCalc.Form1.resources
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 6-7\PresentValueCalc\PresentValueCalc\obj\Debug\netcoreapp3.1\PresentValueCalc.csproj.GenerateResource.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 6-7\PresentValueCalc\PresentValueCalc\obj\Debug\netcoreapp3.1\PresentValueCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 6-7\PresentValueCalc\PresentValueCalc\obj\Debug\netcoreapp3.1\PresentValueCalc.AssemblyInfoInputs.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 6-7\PresentValueCalc\PresentValueCalc\obj\Debug\netcoreapp3.1\PresentValueCalc.AssemblyInfo.cs
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 6-7\PresentValueCalc\PresentValueCalc\obj\Debug\netcoreapp3.1\PresentValueCalc.csproj.CoreCompileInputs.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 6-7\PresentValueCalc\PresentValueCalc\obj\Debug\netcoreapp3.1\PresentValueCalc.dll
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 6-7\PresentValueCalc\PresentValueCalc\obj\Debug\netcoreapp3.1\PresentValueCalc.pdb
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 6-7\PresentValueCalc\PresentValueCalc\obj\Debug\netcoreapp3.1\PresentValueCalc.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 5-13\Random Number File Writer\Random Number File Writer\bin\Debug\netcoreapp3.1\Random Number File Writer.exe
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 5-13\Random Number File Writer\Random Number File Writer\bin\Debug\netcoreapp3.1\Random Number File Writer.deps.json
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 5-13\Random Number File Writer\Random Number File Writer\bin\Debug\netcoreapp3.1\Random Number File Writer.runtimeconfig.json
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 5-13\Random Number File Writer\Random Number File Writer\bin\Debug\netcoreapp3.1\Random Number File Writer.runtimeconfig.dev.json
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 5-13\Random Number File Writer\Random Number File Writer\bin\Debug\netcoreapp3.1\Random Number File Writer.dll
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 5-13\Random Number File Writer\Random Number File Writer\bin\Debug\netcoreapp3.1\Random Number File Writer.pdb
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 5-13\Random Number File Writer\Random Number File Writer\obj\Debug\netcoreapp3.1\Random Number File Writer.csproj.AssemblyReference.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 5-13\Random Number File Writer\Random Number File Writer\obj\Debug\netcoreapp3.1\Random_Number_File_Writer.Form1.resources
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 5-13\Random Number File Writer\Random Number File Writer\obj\Debug\netcoreapp3.1\Random Number File Writer.csproj.GenerateResource.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 5-13\Random Number File Writer\Random Number File Writer\obj\Debug\netcoreapp3.1\Random Number File Writer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 5-13\Random Number File Writer\Random Number File Writer\obj\Debug\netcoreapp3.1\Random Number File Writer.AssemblyInfoInputs.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 5-13\Random Number File Writer\Random Number File Writer\obj\Debug\netcoreapp3.1\Random Number File Writer.AssemblyInfo.cs
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 5-13\Random Number File Writer\Random Number File Writer\obj\Debug\netcoreapp3.1\Random Number File Writer.csproj.CoreCompileInputs.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 5-13\Random Number File Writer\Random Number File Writer\obj\Debug\netcoreapp3.1\Random Number File Writer.dll
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 5-13\Random Number File Writer\Random Number File Writer\obj\Debug\netcoreapp3.1\Random Number File Writer.pdb
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 5-13\Random Number File Writer\Random Number File Writer\obj\Debug\netcoreapp3.1\Random Number File Writer.genruntimeconfig.cache
