@@ -1,0 +1,16 @@
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 11-4\CustomerSubscription\CustomerSubscription\bin\Debug\netcoreapp3.1\CustomerSubscription.exe
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 11-4\CustomerSubscription\CustomerSubscription\bin\Debug\netcoreapp3.1\CustomerSubscription.deps.json
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 11-4\CustomerSubscription\CustomerSubscription\bin\Debug\netcoreapp3.1\CustomerSubscription.runtimeconfig.json
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 11-4\CustomerSubscription\CustomerSubscription\bin\Debug\netcoreapp3.1\CustomerSubscription.runtimeconfig.dev.json
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 11-4\CustomerSubscription\CustomerSubscription\bin\Debug\netcoreapp3.1\CustomerSubscription.dll
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 11-4\CustomerSubscription\CustomerSubscription\bin\Debug\netcoreapp3.1\CustomerSubscription.pdb
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 11-4\CustomerSubscription\CustomerSubscription\obj\Debug\netcoreapp3.1\CustomerSubscription.csproj.AssemblyReference.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 11-4\CustomerSubscription\CustomerSubscription\obj\Debug\netcoreapp3.1\CustomerSubscription.MainForm.resources
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 11-4\CustomerSubscription\CustomerSubscription\obj\Debug\netcoreapp3.1\CustomerSubscription.csproj.GenerateResource.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 11-4\CustomerSubscription\CustomerSubscription\obj\Debug\netcoreapp3.1\CustomerSubscription.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 11-4\CustomerSubscription\CustomerSubscription\obj\Debug\netcoreapp3.1\CustomerSubscription.AssemblyInfoInputs.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 11-4\CustomerSubscription\CustomerSubscription\obj\Debug\netcoreapp3.1\CustomerSubscription.AssemblyInfo.cs
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 11-4\CustomerSubscription\CustomerSubscription\obj\Debug\netcoreapp3.1\CustomerSubscription.csproj.CoreCompileInputs.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 11-4\CustomerSubscription\CustomerSubscription\obj\Debug\netcoreapp3.1\CustomerSubscription.dll
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 11-4\CustomerSubscription\CustomerSubscription\obj\Debug\netcoreapp3.1\CustomerSubscription.pdb
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 11-4\CustomerSubscription\CustomerSubscription\obj\Debug\netcoreapp3.1\CustomerSubscription.genruntimeconfig.cache

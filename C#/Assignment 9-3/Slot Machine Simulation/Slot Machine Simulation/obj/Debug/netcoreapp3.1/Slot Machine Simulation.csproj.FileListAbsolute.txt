@@ -1,0 +1,17 @@
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 9-3\Slot Machine Simulation\Slot Machine Simulation\bin\Debug\netcoreapp3.1\Slot Machine Simulation.exe
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 9-3\Slot Machine Simulation\Slot Machine Simulation\bin\Debug\netcoreapp3.1\Slot Machine Simulation.deps.json
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 9-3\Slot Machine Simulation\Slot Machine Simulation\bin\Debug\netcoreapp3.1\Slot Machine Simulation.runtimeconfig.json
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 9-3\Slot Machine Simulation\Slot Machine Simulation\bin\Debug\netcoreapp3.1\Slot Machine Simulation.runtimeconfig.dev.json
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 9-3\Slot Machine Simulation\Slot Machine Simulation\bin\Debug\netcoreapp3.1\Slot Machine Simulation.dll
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 9-3\Slot Machine Simulation\Slot Machine Simulation\bin\Debug\netcoreapp3.1\Slot Machine Simulation.pdb
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 9-3\Slot Machine Simulation\Slot Machine Simulation\obj\Debug\netcoreapp3.1\Slot Machine Simulation.csproj.AssemblyReference.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 9-3\Slot Machine Simulation\Slot Machine Simulation\obj\Debug\netcoreapp3.1\Slot_Machine_Simulation.MainForm.resources
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 9-3\Slot Machine Simulation\Slot Machine Simulation\obj\Debug\netcoreapp3.1\Slot_Machine_Simulation.Properties.Resources.resources
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 9-3\Slot Machine Simulation\Slot Machine Simulation\obj\Debug\netcoreapp3.1\Slot Machine Simulation.csproj.GenerateResource.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 9-3\Slot Machine Simulation\Slot Machine Simulation\obj\Debug\netcoreapp3.1\Slot Machine Simulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 9-3\Slot Machine Simulation\Slot Machine Simulation\obj\Debug\netcoreapp3.1\Slot Machine Simulation.AssemblyInfoInputs.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 9-3\Slot Machine Simulation\Slot Machine Simulation\obj\Debug\netcoreapp3.1\Slot Machine Simulation.AssemblyInfo.cs
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 9-3\Slot Machine Simulation\Slot Machine Simulation\obj\Debug\netcoreapp3.1\Slot Machine Simulation.csproj.CoreCompileInputs.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 9-3\Slot Machine Simulation\Slot Machine Simulation\obj\Debug\netcoreapp3.1\Slot Machine Simulation.dll
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 9-3\Slot Machine Simulation\Slot Machine Simulation\obj\Debug\netcoreapp3.1\Slot Machine Simulation.pdb
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 9-3\Slot Machine Simulation\Slot Machine Simulation\obj\Debug\netcoreapp3.1\Slot Machine Simulation.genruntimeconfig.cache

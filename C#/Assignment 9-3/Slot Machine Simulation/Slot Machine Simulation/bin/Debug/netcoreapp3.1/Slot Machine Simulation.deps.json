@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Slot Machine Simulation/1.0.0": {
+        "runtime": {
+          "Slot Machine Simulation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Slot Machine Simulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
