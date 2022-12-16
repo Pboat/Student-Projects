@@ -1,0 +1,16 @@
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 7-6\Name Search\Name Search\bin\Debug\netcoreapp3.1\Name Search.exe
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 7-6\Name Search\Name Search\bin\Debug\netcoreapp3.1\Name Search.deps.json
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 7-6\Name Search\Name Search\bin\Debug\netcoreapp3.1\Name Search.runtimeconfig.json
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 7-6\Name Search\Name Search\bin\Debug\netcoreapp3.1\Name Search.runtimeconfig.dev.json
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 7-6\Name Search\Name Search\bin\Debug\netcoreapp3.1\Name Search.dll
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 7-6\Name Search\Name Search\bin\Debug\netcoreapp3.1\Name Search.pdb
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 7-6\Name Search\Name Search\obj\Debug\netcoreapp3.1\Name Search.csproj.AssemblyReference.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 7-6\Name Search\Name Search\obj\Debug\netcoreapp3.1\Name_Search.Form1.resources
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 7-6\Name Search\Name Search\obj\Debug\netcoreapp3.1\Name Search.csproj.GenerateResource.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 7-6\Name Search\Name Search\obj\Debug\netcoreapp3.1\Name Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 7-6\Name Search\Name Search\obj\Debug\netcoreapp3.1\Name Search.AssemblyInfoInputs.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 7-6\Name Search\Name Search\obj\Debug\netcoreapp3.1\Name Search.AssemblyInfo.cs
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 7-6\Name Search\Name Search\obj\Debug\netcoreapp3.1\Name Search.csproj.CoreCompileInputs.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 7-6\Name Search\Name Search\obj\Debug\netcoreapp3.1\Name Search.dll
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 7-6\Name Search\Name Search\obj\Debug\netcoreapp3.1\Name Search.pdb
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 7-6\Name Search\Name Search\obj\Debug\netcoreapp3.1\Name Search.genruntimeconfig.cache

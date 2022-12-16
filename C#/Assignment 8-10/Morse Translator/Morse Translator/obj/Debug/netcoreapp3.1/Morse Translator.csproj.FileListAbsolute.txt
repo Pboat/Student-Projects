@@ -1,0 +1,16 @@
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 8-10\Morse Translator\Morse Translator\bin\Debug\netcoreapp3.1\Morse Translator.exe
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 8-10\Morse Translator\Morse Translator\bin\Debug\netcoreapp3.1\Morse Translator.deps.json
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 8-10\Morse Translator\Morse Translator\bin\Debug\netcoreapp3.1\Morse Translator.runtimeconfig.json
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 8-10\Morse Translator\Morse Translator\bin\Debug\netcoreapp3.1\Morse Translator.runtimeconfig.dev.json
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 8-10\Morse Translator\Morse Translator\bin\Debug\netcoreapp3.1\Morse Translator.dll
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 8-10\Morse Translator\Morse Translator\bin\Debug\netcoreapp3.1\Morse Translator.pdb
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 8-10\Morse Translator\Morse Translator\obj\Debug\netcoreapp3.1\Morse Translator.csproj.AssemblyReference.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 8-10\Morse Translator\Morse Translator\obj\Debug\netcoreapp3.1\Morse_Translator.MainForm.resources
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 8-10\Morse Translator\Morse Translator\obj\Debug\netcoreapp3.1\Morse Translator.csproj.GenerateResource.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 8-10\Morse Translator\Morse Translator\obj\Debug\netcoreapp3.1\Morse Translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 8-10\Morse Translator\Morse Translator\obj\Debug\netcoreapp3.1\Morse Translator.AssemblyInfoInputs.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 8-10\Morse Translator\Morse Translator\obj\Debug\netcoreapp3.1\Morse Translator.AssemblyInfo.cs
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 8-10\Morse Translator\Morse Translator\obj\Debug\netcoreapp3.1\Morse Translator.csproj.CoreCompileInputs.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 8-10\Morse Translator\Morse Translator\obj\Debug\netcoreapp3.1\Morse Translator.dll
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 8-10\Morse Translator\Morse Translator\obj\Debug\netcoreapp3.1\Morse Translator.pdb
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 8-10\Morse Translator\Morse Translator\obj\Debug\netcoreapp3.1\Morse Translator.genruntimeconfig.cache
