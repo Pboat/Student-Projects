@@ -1,0 +1,3 @@
+﻿  NumConversion.cpp
+c:\users\panth\documents\compsci\introc++\unit5\numconversion\numconversion\numconversion\numconversion.cpp(47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  NumConversion.vcxproj -> C:\Users\panth\Documents\CompSci\IntroC++\Unit5\NumConversion\NumConversion\Debug\NumConversion.exe

@@ -1,0 +1,3 @@
+﻿  MathPractice.cpp
+c:\users\panth\documents\compsci\introc++\unit6\mathpractice\mathpractice\mathpractice\mathpractice.cpp(39): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MathPractice.vcxproj -> C:\Users\panth\Documents\CompSci\IntroC++\Unit6\MathPractice\MathPractice\Debug\MathPractice.exe

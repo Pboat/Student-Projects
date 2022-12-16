@@ -1,0 +1,18 @@
+﻿  MarketingEmployeeReport.cpp
+c:\users\panth\documents\compsci\introc++\unit8\marketingemployeereport\marketingemployeereport\marketingemployeereport.cpp(215): warning C4018: '<': signed/unsigned mismatch
+c:\users\panth\documents\compsci\introc++\unit8\marketingemployeereport\marketingemployeereport\marketingemployeereport.cpp(223): warning C4018: '<': signed/unsigned mismatch
+c:\users\panth\documents\compsci\introc++\unit8\marketingemployeereport\marketingemployeereport\marketingemployeereport.cpp(231): warning C4018: '<': signed/unsigned mismatch
+c:\users\panth\documents\compsci\introc++\unit8\marketingemployeereport\marketingemployeereport\marketingemployeereport.cpp(282): warning C4018: '<': signed/unsigned mismatch
+c:\users\panth\documents\compsci\introc++\unit8\marketingemployeereport\marketingemployeereport\marketingemployeereport.cpp(307): warning C4018: '<': signed/unsigned mismatch
+c:\users\panth\documents\compsci\introc++\unit8\marketingemployeereport\marketingemployeereport\marketingemployeereport.cpp(309): warning C4018: '<': signed/unsigned mismatch
+c:\users\panth\documents\compsci\introc++\unit8\marketingemployeereport\marketingemployeereport\marketingemployeereport.cpp(326): warning C4018: '<': signed/unsigned mismatch
+c:\users\panth\documents\compsci\introc++\unit8\marketingemployeereport\marketingemployeereport\marketingemployeereport.cpp(328): warning C4018: '<': signed/unsigned mismatch
+c:\users\panth\documents\compsci\introc++\unit8\marketingemployeereport\marketingemployeereport\marketingemployeereport.cpp(344): warning C4018: '<': signed/unsigned mismatch
+c:\users\panth\documents\compsci\introc++\unit8\marketingemployeereport\marketingemployeereport\marketingemployeereport.cpp(346): warning C4018: '<': signed/unsigned mismatch
+c:\users\panth\documents\compsci\introc++\unit8\marketingemployeereport\marketingemployeereport\marketingemployeereport.cpp(362): warning C4018: '<': signed/unsigned mismatch
+c:\users\panth\documents\compsci\introc++\unit8\marketingemployeereport\marketingemployeereport\marketingemployeereport.cpp(364): warning C4018: '<': signed/unsigned mismatch
+c:\users\panth\documents\compsci\introc++\unit8\marketingemployeereport\marketingemployeereport\marketingemployeereport.cpp(380): warning C4018: '<': signed/unsigned mismatch
+c:\users\panth\documents\compsci\introc++\unit8\marketingemployeereport\marketingemployeereport\marketingemployeereport.cpp(382): warning C4018: '<': signed/unsigned mismatch
+c:\users\panth\documents\compsci\introc++\unit8\marketingemployeereport\marketingemployeereport\marketingemployeereport.cpp(398): warning C4018: '<': signed/unsigned mismatch
+c:\users\panth\documents\compsci\introc++\unit8\marketingemployeereport\marketingemployeereport\marketingemployeereport.cpp(400): warning C4018: '<': signed/unsigned mismatch
+  MarketingEmployeeReport.vcxproj -> C:\Users\panth\Documents\CompSci\IntroC++\Unit8\MarketingEmployeeReport\Debug\MarketingEmployeeReport.exe
