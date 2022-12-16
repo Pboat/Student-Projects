@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "payroll", "payroll\payroll.vcxproj", "{F5D0243A-DD1D-40CA-B9C2-1D449AF4FB7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5D0243A-DD1D-40CA-B9C2-1D449AF4FB7F}.Debug|x64.ActiveCfg = Debug|x64
+		{F5D0243A-DD1D-40CA-B9C2-1D449AF4FB7F}.Debug|x64.Build.0 = Debug|x64
+		{F5D0243A-DD1D-40CA-B9C2-1D449AF4FB7F}.Debug|x86.ActiveCfg = Debug|Win32
+		{F5D0243A-DD1D-40CA-B9C2-1D449AF4FB7F}.Debug|x86.Build.0 = Debug|Win32
+		{F5D0243A-DD1D-40CA-B9C2-1D449AF4FB7F}.Release|x64.ActiveCfg = Release|x64
+		{F5D0243A-DD1D-40CA-B9C2-1D449AF4FB7F}.Release|x64.Build.0 = Release|x64
+		{F5D0243A-DD1D-40CA-B9C2-1D449AF4FB7F}.Release|x86.ActiveCfg = Release|Win32
+		{F5D0243A-DD1D-40CA-B9C2-1D449AF4FB7F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DA165BD-868E-4EB8-8A4F-F5E95534C278}
+	EndGlobalSection
+EndGlobal
