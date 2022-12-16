@@ -1,0 +1,16 @@
+C:\Users\panth\Documents\CompSci\Visual C#\Salary Calc\HourlyWageCalculator\HourlyWageCalculator\bin\Debug\netcoreapp3.1\HourlyWageCalculator.exe
+C:\Users\panth\Documents\CompSci\Visual C#\Salary Calc\HourlyWageCalculator\HourlyWageCalculator\bin\Debug\netcoreapp3.1\HourlyWageCalculator.deps.json
+C:\Users\panth\Documents\CompSci\Visual C#\Salary Calc\HourlyWageCalculator\HourlyWageCalculator\bin\Debug\netcoreapp3.1\HourlyWageCalculator.runtimeconfig.json
+C:\Users\panth\Documents\CompSci\Visual C#\Salary Calc\HourlyWageCalculator\HourlyWageCalculator\bin\Debug\netcoreapp3.1\HourlyWageCalculator.runtimeconfig.dev.json
+C:\Users\panth\Documents\CompSci\Visual C#\Salary Calc\HourlyWageCalculator\HourlyWageCalculator\bin\Debug\netcoreapp3.1\HourlyWageCalculator.dll
+C:\Users\panth\Documents\CompSci\Visual C#\Salary Calc\HourlyWageCalculator\HourlyWageCalculator\bin\Debug\netcoreapp3.1\HourlyWageCalculator.pdb
+C:\Users\panth\Documents\CompSci\Visual C#\Salary Calc\HourlyWageCalculator\HourlyWageCalculator\obj\Debug\netcoreapp3.1\HourlyWageCalculator.csproj.AssemblyReference.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Salary Calc\HourlyWageCalculator\HourlyWageCalculator\obj\Debug\netcoreapp3.1\HourlyWageCalculator.MainForm.resources
+C:\Users\panth\Documents\CompSci\Visual C#\Salary Calc\HourlyWageCalculator\HourlyWageCalculator\obj\Debug\netcoreapp3.1\HourlyWageCalculator.csproj.GenerateResource.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Salary Calc\HourlyWageCalculator\HourlyWageCalculator\obj\Debug\netcoreapp3.1\HourlyWageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panth\Documents\CompSci\Visual C#\Salary Calc\HourlyWageCalculator\HourlyWageCalculator\obj\Debug\netcoreapp3.1\HourlyWageCalculator.AssemblyInfoInputs.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Salary Calc\HourlyWageCalculator\HourlyWageCalculator\obj\Debug\netcoreapp3.1\HourlyWageCalculator.AssemblyInfo.cs
+C:\Users\panth\Documents\CompSci\Visual C#\Salary Calc\HourlyWageCalculator\HourlyWageCalculator\obj\Debug\netcoreapp3.1\HourlyWageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Salary Calc\HourlyWageCalculator\HourlyWageCalculator\obj\Debug\netcoreapp3.1\HourlyWageCalculator.dll
+C:\Users\panth\Documents\CompSci\Visual C#\Salary Calc\HourlyWageCalculator\HourlyWageCalculator\obj\Debug\netcoreapp3.1\HourlyWageCalculator.pdb
+C:\Users\panth\Documents\CompSci\Visual C#\Salary Calc\HourlyWageCalculator\HourlyWageCalculator\obj\Debug\netcoreapp3.1\HourlyWageCalculator.genruntimeconfig.cache

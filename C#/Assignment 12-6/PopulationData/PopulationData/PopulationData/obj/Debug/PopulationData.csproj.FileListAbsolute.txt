@@ -1,0 +1,12 @@
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 12-6\PopulationData\PopulationData\PopulationData\bin\Debug\PopulationDB.mdf
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 12-6\PopulationData\PopulationData\PopulationData\bin\Debug\PopulationDB_log.ldf
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 12-6\PopulationData\PopulationData\PopulationData\bin\Debug\PopulationData.exe.config
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 12-6\PopulationData\PopulationData\PopulationData\bin\Debug\PopulationData.exe
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 12-6\PopulationData\PopulationData\PopulationData\bin\Debug\PopulationData.pdb
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 12-6\PopulationData\PopulationData\PopulationData\obj\Debug\PopulationData.csproj.AssemblyReference.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 12-6\PopulationData\PopulationData\PopulationData\obj\Debug\PopulationData.MainForm.resources
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 12-6\PopulationData\PopulationData\PopulationData\obj\Debug\PopulationData.Properties.Resources.resources
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 12-6\PopulationData\PopulationData\PopulationData\obj\Debug\PopulationData.csproj.GenerateResource.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 12-6\PopulationData\PopulationData\PopulationData\obj\Debug\PopulationData.csproj.CoreCompileInputs.cache
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 12-6\PopulationData\PopulationData\PopulationData\obj\Debug\PopulationData.exe
+C:\Users\panth\Documents\CompSci\Visual C#\Assignment 12-6\PopulationData\PopulationData\PopulationData\obj\Debug\PopulationData.pdb
