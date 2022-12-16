@@ -1,0 +1,5 @@
+﻿  CharAnalysis.cpp
+c:\users\panth\documents\compsci\introc++\unit10\charanalysis\charanalysis\charanalysis\charanalysis.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\panth\documents\compsci\introc++\unit10\charanalysis\charanalysis\charanalysis\charanalysis.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\panth\documents\compsci\introc++\unit10\charanalysis\charanalysis\charanalysis\charanalysis.cpp(54): warning C4018: '<': signed/unsigned mismatch
+  CharAnalysis.vcxproj -> C:\Users\panth\Documents\CompSci\IntroC++\Unit10\CharAnalysis\CharAnalysis\Debug\CharAnalysis.exe
