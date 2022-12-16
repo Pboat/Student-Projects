@@ -1,0 +1,3 @@
+﻿  AccountFile.cpp
+c:\users\panth\documents\compsci\introc++\unit12\accountfile\accountfile\accountfile\accountfile.cpp(63): warning C4018: '<': signed/unsigned mismatch
+  AccountFile.vcxproj -> C:\Users\panth\Documents\CompSci\IntroC++\Unit12\AccountFile\AccountFile\Debug\AccountFile.exe
